@@ -1,0 +1,41 @@
+.PasteImage {
+  position: relative;
+  width: 81.25rem;
+  height: 25rem;
+  background: var(--Secondary);
+  border: 1px solid var(--Accent);
+  border-radius: 20px;
+}
+
+.PosteImageImg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 20px;
+  z-index: 1;
+}
+
+.PasteImageBlock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.PasteImageIcon {
+}
+.PasteImageBtn {
+  font-family: var(--fontFamily);
+  color: var(--Text);
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  background: var(--Secondary);
+  border-radius: 0.625rem;
+  border: 1px solid var(--Accent);
+  padding: 0.625rem 1rem;
+  margin-top: 0.63rem;
+}

@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--fontFamily);
+  color: var(--Text);
+  background: var(--Background);
+}
+
+button {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  width: 81.25rem;
+  margin: 0 auto;
+}
