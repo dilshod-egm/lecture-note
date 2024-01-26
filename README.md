@@ -1,7 +1,7 @@
 # Описание:
 **Lecture-Note** - это веб-приложение для удобного ведения личных заметок и списков дел. Пользователи могут добавлять заметки с заголовками и текстом, редактировать или удалять существующие заметки.
 
-Link: https://damp-block-1842.on.fleek.co/
+## Link: https://damp-block-1842.on.fleek.co/
 
 ![274shots_so](https://github.com/dilshod-egm/lecture-note/assets/84387723/ff5607ad-428f-42bc-b64e-539e1f9c80f2)
 ![52shots_so](https://github.com/dilshod-egm/lecture-note/assets/84387723/00a5e010-bc6f-42e8-acf7-8b95dc5a2470)
